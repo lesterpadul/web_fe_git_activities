@@ -1,3 +1,0 @@
-<div>
-	<span>Home</span>
-</div>
