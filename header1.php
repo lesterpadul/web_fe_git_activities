@@ -1,3 +1,4 @@
 <div>
-	<span>Home</span>
+	<span>About us</span>
+	<span>Contact</span>
 </div>
